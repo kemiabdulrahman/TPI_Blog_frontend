@@ -1,0 +1,64 @@
+.ABC{
+  font-weight: bold;
+  margin: 0;
+  }
+
+.p {
+  margin: 0 0 1em;
+}
+
+.ul, .ol {
+  margin: 0 0 1em;
+  padding: 0;
+}
+
+.li {
+  margin-bottom: 0.5em;
+}
+
+ .button {
+  display: inline-block;
+  padding: 0.5em 1em;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 1rem;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.a:hover {
+  text-decoration: underline;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+.textarea {
+  display: block;
+  width: 100%;
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+ .table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.th,
+.td {
+  padding: 0.5em;
+  border: 1px solid #ccc;
+}
