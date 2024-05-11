@@ -13,7 +13,6 @@
 
 
 
-
 .border {
 border: 1px solid burlywood;	
 }
@@ -32,6 +31,7 @@ border: 1px solid burlywood;
 --clr-primary: 30, 100%, 85%;
 --clr-secondary:  200, 80%, 70%;
 --clr-light:  47, 11%, 89%;
+--clr-grey:  47, 1%, 89%;
 
 /* containers */
 
@@ -208,10 +208,6 @@ font-weight: 800;
 .rounded {
 	border-radius: 5px;
 	
-}
-
-.text-decoration-none {
-text-decoration: none;	
 }
 
 
