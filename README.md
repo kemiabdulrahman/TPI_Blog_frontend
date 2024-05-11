@@ -1,2 +1,7 @@
-# TPI_FLASK_TEMPLATE
-Template folder to use for the blog website
+# The People Initiative Blog Template
+
+## Template folder to use for the blog website
+
+
+
+
